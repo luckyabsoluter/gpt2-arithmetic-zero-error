@@ -1,0 +1,6 @@
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+cosine_annealing_warmup @ git+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup@12d03c0
+tensorboardX==2.6.2.2
+transformers==4.47.0
